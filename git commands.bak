@@ -7,10 +7,3 @@ git add <foldername>==="for adding folder"
 git commit -m "messege"==="for commiting"
 git push -u origin <branch name>==="for push the changes into repo"
 git pull==="take latest changes"
-
-########################## Command for merge branch into master ##############################
-
-git checkout <main or master>
-git merge <branch name> (there won't be any conflicts now)
-
-########################################################
